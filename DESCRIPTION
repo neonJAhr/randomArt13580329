@@ -1,0 +1,10 @@
+Package: randomArt13580329
+Title: Random Art Function
+Version: 0.0.1
+Authors@R: c(person("Arne", "John", role = c("aut", "cre"), email = "arne.john@student.uva.nl"))
+Description: This package has only one function that allows the user to create a randomly generator picture.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2.9000
